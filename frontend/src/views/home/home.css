@@ -1,0 +1,35 @@
+.Hero_image img{
+    width: 100%;
+    margin-left: auto;
+}
+
+.Hero_image{
+    align-items: auto;
+}
+.containerhome {
+    max-width: 30rem;
+    padding-top: 1rem;
+    margin: auto;
+}
+
+.home.headline.title{
+    font-size: 36px;
+}
+
+.home.headline.content{
+    font-size: 64px;
+}
+
+.home.headline{
+    padding-top: 10rem;
+}
+
+
+.home.supporting{
+    margin: 4rem 0rem;
+    font-size: 32px;
+}
+
+.home.supporting b{
+    font-size: 32px;
+}

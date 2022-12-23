@@ -1,0 +1,56 @@
+.login {
+    text-align: center;
+}
+
+.login .logo{
+    justify-content: center;
+    margin: 1rem auto;
+}
+.login .title {
+    text-align: center;
+    font-weight: 300;
+}
+
+.login .form {
+    max-width: 25rem;
+    margin: 1rem auto;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.login .register {
+    max-width: 25rem;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.login .fill-button {
+    width: 100%;
+}
+
+.menulogin {
+    list-style: none;
+    text-align: left;
+    gap: 2rem;
+}
+
+.containerlogin {
+    max-width: 90rem;
+    padding: 1rem;
+    margin: 0 auto;
+}
+.menulogin li:last-child {
+    margin: 1rem;
+    margin-left: auto;
+}
+
+.input {
+    text-align: left;
+    margin-top: 0.5rem;
+    padding: 0.3rem;
+    border: none;
+    border-radius: var(--default-radius);
+    background-color: rgb(231, 231, 231);
+    width: 100%;
+}
+
